@@ -15,7 +15,7 @@ const Chat: React.FC = () => {
     useEffect(() => {
         // Create SignalR connection
         const newConnection = new signalR.HubConnectionBuilder()
-            .withUrl("http://localhost:5226/ChatHub") // Update this URL if needed
+            .withUrl("http://localhost:5001/ChatHub") // Update this URL if needed
             .withAutomaticReconnect()
             .build();
 

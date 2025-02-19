@@ -31,3 +31,4 @@ C:\Users\User\Desktop\bb downld\Legacy Projects\ChatVerse\api\obj\Debug\net8.0\r
 C:\Users\User\Desktop\bb downld\Legacy Projects\ChatVerse\api\obj\Debug\net8.0\api.pdb
 C:\Users\User\Desktop\bb downld\Legacy Projects\ChatVerse\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\User\Desktop\bb downld\Legacy Projects\ChatVerse\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\User\Desktop\bb downld\Legacy Projects\ChatVerse\api\obj\Debug\net8.0\api.sourcelink.json
